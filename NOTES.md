@@ -46,7 +46,7 @@ It's just a more specific version of "\*.\*|REMOVESELF".
 
 If you specify different files using the separator ";", they always need to start with a wildcard. Without the wildcard, only the first pattern matches.
 
-**For example:** ExcludeKey1=PATH|C:\\Windows\\|\*setup.log;\*install.log
+**For example:** ExcludeKey1=PATH|%WinDir%\\|\*setup.log;\*install.log
 
 ### VirtualStore: ###
 
