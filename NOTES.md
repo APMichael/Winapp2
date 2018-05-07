@@ -69,7 +69,7 @@ IMHO most of the VirtualStore lines aren't necessary. Only very old "legacy" app
 **%CommonProgramFiles%**  
 *XP-10:* C:\\Program Files\\Common Files  
 *XP-10:* C:\\Program Files (x86)\\Common Files  
-This will work for both 32 and 64 bit directories as CCleaner will detect it on its own.
+(This will work for both 32-bit and 64-bit folders as CCleaner will detect it on its own.)
 
 **%Documents%**  
 *Vista-10:* C:\\Users\\{username}\\Documents  
@@ -93,7 +93,7 @@ This will work for both 32 and 64 bit directories as CCleaner will detect it on 
 **%ProgramFiles%**  
 *XP-10:* C:\\Program Files  
 *XP-10:* C:\\Program Files (x86)  
-This will work for both 32bit and 64bit because CCleaner detects these paths on its own.
+(This will work for both 32-bit and 64-bit folders as CCleaner will detect it on its own.)
 
 **%Public%**  
 *Vista-10:* C:\\Users\\Public
