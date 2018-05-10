@@ -48,6 +48,13 @@ If you specify different files using the separator ";", they always need to star
 
 **For example:** ExcludeKey1=PATH|%WinDir%\\|\*setup.log;\*install.log
 
+### Wildcards: ###
+
+CCleaner supports the DOS/CMD wildcards "\*" and "?".
+
+The \* wildcard will match any sequence of characters (0 or more, including NULL characters).  
+The ? wildcard will match a single character (or a NULL at the end of a filename).
+
 ### VirtualStore: ###
 
 IMHO most of the VirtualStore lines aren't necessary. Only very old "legacy" applications (coded for Windows XP and older) are redirected to VirtualStore. If the application is a certified Vista (or newer) application this should never happen. Of course, there are exceptions (some "wrong" coded applications), but I never had one until now.
