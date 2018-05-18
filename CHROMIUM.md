@@ -22,7 +22,7 @@ Profile Path: %LocalAppData%\\Epic Privacy Browser\\User Data\\Default\\
 Registry Key: HKCU\\Software\\Google\\Chrome\\PreferenceMACs  
 Profile Path: %LocalAppData%\\Google\\Chrome\\User Data\\Default\\
 
-[SlimJet](https://www.slimjet.com)  
+[Slimjet](https://www.slimjet.com)  
 Registry Key: HKCU\\Software\\Slimjet  
 Profile Path: %LocalAppData%\\Slimjet\\User Data\\Default\\
 
@@ -80,4 +80,4 @@ Profile Path: %LocalAppData%\\Flock\\User Data\\Default\\
 
 RockMelt (2013)  
 Registry Key: HKCU\\Software\\RockMelt  
-Profile Path: %LocalAppData%\\Rockmelt\\User Data\\Default\\
+Profile Path: %LocalAppData%\\RockMelt\\User Data\\Default\\
