@@ -18,6 +18,10 @@ Profile Path: %LocalAppData%\\Comodo\\Dragon\\User Data\\Default\\
 Registry Key: HKCU\\Software\\Epic Privacy Browser  
 Profile Path: %LocalAppData%\\Epic Privacy Browser\\User Data\\Default\\
 
+[Google Chrome](https://www.google.de/chrome/)  
+Registry Key: HKCU\\Software\\Google\\Chrome\\PreferenceMACs  
+Profile Path: %LocalAppData%\\Google\\Chrome\\User Data\\Default\\
+
 [SlimJet](https://www.slimjet.com)  
 Registry Key: HKCU\\Software\\Slimjet  
 Profile Path: %LocalAppData%\\Slimjet\\User Data\\Default\\
@@ -57,15 +61,24 @@ Registry Key: HKCU\\Software\\Amigo
 Profile Path: %LocalAppData%\\Amigo\\User Data\\Default\\
 
 [CocCoc](https://coccoc.com)  
+
 Registry Key: HKCU\\Software\\CocCoc  
 Profile Path: %LocalAppData%\\CocCoc\\Browser\\User Data\\Default\\
 
 ### Discontinued: ###
 
-[ChromePlus](http://coolnovo.com) (CoolNovo, 2013)
+ChromePlus (CoolNovo, 2013)  
+Registry Key: HKCU\\Software\\ChromePlus  
+Profile Path: %LocalAppData%\\MapleStudio\\ChromePlus\\User Data\\Default\\
 
-[Coowon](http://www.coowon.com) (2014)
+Coowon (2014)  
+Registry Key: HKCU\\Software\\Coowon  
+Profile Path: %LocalAppData%\\Coowon\\Coowon\\User Data\\Default\\
 
-Flock (2011)
+Flock (2011)  
+Registry Key: HKCU\\Software\\Flock  
+Profile Path: %LocalAppData%\\AppData\\Local\\Flock\\User Data\\Default\\
 
-Rockmelt (2013)
+RockMelt (2013)  
+Registry Key: HKCU\\Software\\RockMelt  
+Profile Path: %LocalAppData%\\Rockmelt\\User Data\\Default\\
