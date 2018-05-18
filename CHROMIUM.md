@@ -61,7 +61,6 @@ Registry Key: HKCU\\Software\\Amigo
 Profile Path: %LocalAppData%\\Amigo\\User Data\\Default\\
 
 [CocCoc](https://coccoc.com)  
-
 Registry Key: HKCU\\Software\\CocCoc  
 Profile Path: %LocalAppData%\\CocCoc\\Browser\\User Data\\Default\\
 
