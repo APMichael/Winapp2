@@ -77,7 +77,7 @@ Profile Path: %LocalAppData%\\Coowon\\Coowon\\User Data\\Default\\
 
 Flock (2011)  
 Registry Key: HKCU\\Software\\Flock  
-Profile Path: %LocalAppData%\\AppData\\Local\\Flock\\User Data\\Default\\
+Profile Path: %LocalAppData%\\Flock\\User Data\\Default\\
 
 RockMelt (2013)  
 Registry Key: HKCU\\Software\\RockMelt  
