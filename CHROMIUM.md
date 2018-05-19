@@ -30,7 +30,7 @@ Profile Path: %LocalAppData%\\Slimjet\\User Data\\Default\\
 Registry Key: HKCU\\Software\\Chromium\\PreferenceMACs  
 Profile Path: %LocalAppData%\\Chromium\\User Data\\Default\\
 
-[SuperBird](http://superbird-browser.com)  
+[Superbird](http://superbird-browser.com)  
 Registry Key: HKCU\\Software\\Chromium\\PreferenceMACs  
 Profile Path: %LocalAppData%\\Chromium\\User Data\\Default\\
 
@@ -48,11 +48,11 @@ Profile Path: %LocalAppData%\\Yandex\\YandexBrowser\\User Data\\Default\\
 
 ### Active, primary non-English: ###
 
-[7Star](http://www.qixing123.com)  
+[7 Star](http://www.qixing123.com)  
 Registry Key: HKCU\\Software\\7Star  
 Profile Path: %LocalAppData%\\7Star\\7Star\\User Data\\Default\\
 
-[360Browser](https://browser.360.cn)  
+[360 Browser](https://browser.360.cn)  
 Registry Key: HKCU\\Software\\360Browser  
 Profile Path: %LocalAppData%\\360Browser\\Browser\\User Data\\Default\\
 
@@ -60,7 +60,7 @@ Profile Path: %LocalAppData%\\360Browser\\Browser\\User Data\\Default\\
 Registry Key: HKCU\\Software\\Amigo  
 Profile Path: %LocalAppData%\\Amigo\\User Data\\Default\\
 
-[CocCoc](https://coccoc.com)  
+[Coc Coc](https://coccoc.com)  
 Registry Key: HKCU\\Software\\CocCoc  
 Profile Path: %LocalAppData%\\CocCoc\\Browser\\User Data\\Default\\
 
