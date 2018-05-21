@@ -38,7 +38,7 @@ Profile Path: %AppData%\\Thunderbird\\Profiles\\\*.default\\
 
 ### Discontinued: ###
 
-[FossaMail](https://www.fossamail.org)  
+FossaMail (2017)  
 Registry Key: HKLM\\SOFTWARE\\Mozilla\\FossaMail  
 Application Path: %ProgramFiles%\\FossaMail\\  
 Cache Path: %LocalAppData%\\FossaMail\\Profiles\\\*.default\\  
