@@ -8,6 +8,12 @@ Application Path: %ProgramFiles%\\Mozilla Firefox\\
 Cache Path: %LocalAppData%\\Mozilla\\Firefox\\Profiles\\\*.default\\  
 Profile Path: %AppData%\\Mozilla\\Firefox\\Profiles\\\*.default\\
 
+**[Mozilla Firefox Nightly](https://www.mozilla.org/firefox/channel/desktop/)**  
+Registry Key: HKLM\\SOFTWARE\\Mozilla\\Nightly  
+Application Path: %ProgramFiles%\\Firefox Nightly\\  
+Cache Path: %LocalAppData%\\Mozilla\\Firefox\\Profiles\\\*.default\\  
+Profile Path: %AppData%\\Mozilla\\Firefox\\Profiles\\\*.default\\
+
 **[Pale Moon](https://www.palemoon.org)**  
 Registry Key: HKLM\\SOFTWARE\\Mozilla\\Pale Moon  
 Application Path: %ProgramFiles%\\Pale Moon\\  
