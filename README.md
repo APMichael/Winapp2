@@ -40,8 +40,6 @@ LangSecRef=3027 = Opera
 LangSecRef=3028 = Safari  
 Section=Games
 
-**SpecialDetect=** It is rare you will ever need to use this, but this is part of coding that has been in CCleaner for a while and we decided to reuse it in Winapp2, as well. The only time we really ever use this is for browsers, so for example, **SpecialDetect=DET_CHROME** would refer to Google Chrome and **SpecialDetect=DET_MOZILLA** would refer to Mozilla Firefox. If you need an example, please take a look inside the browser section of Winapp2 (it is the first 2 sections in Winapp2).
-
 **Detect=** This refers to the program itself. This is needed in order to clean any program. Usually these refer to a registry key, however, if one doesn't exist, you will need to use **DetectFile=** instead a point to a specific file path or file (usually the main directory or the main .exe file).
 
 **DetectFile=** As mentioned above, this is for when a registry key doesn't exist and must use a file path or a specific file.
@@ -52,7 +50,7 @@ Section=Games
 
 **FileKey=** This refers to the junk files that need to be cleaned. This can include a path or a specific file. Each file or path must be in its own FileKey. So, if you are trying to clean 2 file paths, you would put 1 path in FileKey1= and the other in FileKey2=. You may also use wildcards in FileKeys to help shrink the amount of FileKeys created. A good time to use these would be when cleaning junk files with the same extension, such as .log. Instead of making multiple FileKeys for cleaning multiple log files, you can make one entry with using a wildcard, for example: Path|\*.log This will tell Winapp2 to clean any file that has .log at the end. If your goal is to delete any file within a folder, then you would specify this with just adding a period, for example: path|\*.\* A | must be used at the end of each path for every FileKey in order for your entry to work properly. Feel free to look throughout Winapp2 if you ever need a better example. Alternatively, you can use RECURSE and REMOVESELF in your FileKeys. **RECURSE** tells your entry to clean the files within the path specified, as well as in sub-folders. **REMOVESELF** does the same as RECURSE, except it also removes the folders along with it, as well.
 
-**RegKey=** This is for cleaning registry entries. The process is relatively the same as the FileKey. We do not support wildcards in RegKey, so each RegKey has to be a specific key.
+**RegKey=** This is for cleaning registry entries. The process is relatively the same as FileKey, except you would specify each RegKey as a registry path. We support all registry paths in Windows. We do not support wildcards in RegKey, so each RegKey has to be the whole path.
 
 
 ### Environment variables:
