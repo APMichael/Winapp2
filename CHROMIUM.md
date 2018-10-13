@@ -32,6 +32,12 @@ Registry Key: HKCU\\Software\\Google\\Chrome SxS
 Application Path: %LocalAppData%\\Google\\Chrome SxS\\Application\\  
 Profile Path: %LocalAppData%\\Google\\Chrome SxS\\User Data\\Default\\
 
+**[Opera](https://www.opera.com)**  
+Registry Key: HKCU\\Software\\Opera Software  
+Application Path: %LocalAppData%\\Programs\\Opera\\ (**no** Application\\, Installation type: "Install per user")  
+Application Path: %ProgramFiles%\\Opera\\ (**no** Application\\, Installation type: "Install for all users")  
+Profile Path: %AppData%\\Opera Software\\Opera Stable\\ (**no** User Data\\Default\\)
+
 **[Slimjet](https://www.slimjet.com)**  
 Registry Key: HKCU\\Software\\Slimjet  
 Application Path: %ProgramFiles%\\Slimjet\\  
