@@ -3,9 +3,11 @@
 ### Active: ####
 
 **[Brave](https://brave.com)**  
-Registry Key: -  
-Application Path: %LocalAppData%\\Brave\\ (**no** Application\\)  
-Profile Path: %AppData%\\brave\\ (**no** User Data\\Default\\)
+Registry Key: HKCU\\Software\\BraveSoftware\\Brave-Browser  
+Application Path: %ProgramFiles%\\BraveSoftware\\Brave-Browser\\Application\\  
+Application Path: %LocalAppData%\\Brave\\ (**no** Application\\, **outdated**)  
+Profile Path: %LocalAppData%\\BraveSoftware\\Brave-Browser\\User Data\\Default\\  
+Profile Path: %AppData%\\brave\\ (**no** User Data\\Default\\, **outdated**)
 
 **[Cent Browser](https://www.centbrowser.com)**  
 Registry Key: HKCU\\Software\\CentBrowser  
