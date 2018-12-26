@@ -2,6 +2,12 @@
 
 ### Active: ####
 
+**[Librefox](https://github.com/intika/Librefox/)**  
+Registry Key: -  
+Application Path: -  
+Cache Path: -  
+Profile Path: -
+
 **[Mozilla Firefox](https://www.mozilla.org/firefox/)**  
 Registry Key: HKLM\\SOFTWARE\\Mozilla\\Mozilla Firefox  
 Application Path: %ProgramFiles%\\Mozilla Firefox\\  
