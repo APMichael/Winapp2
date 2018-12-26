@@ -34,6 +34,11 @@ Registry Key: HKCU\\Software\\Google\\Chrome SxS
 Application Path: %LocalAppData%\\Google\\Chrome SxS\\Application\\  
 Profile Path: %LocalAppData%\\Google\\Chrome SxS\\User Data\\Default\\
 
+**[Iridium Browser](https://iridiumbrowser.de)**  
+Registry Key: -  
+Application Path: -  
+Profile Path: -
+
 **[Opera](https://www.opera.com)**  
 Registry Key: HKCU\\Software\\Opera Software  
 Application Path: %LocalAppData%\\Programs\\Opera\\ (**no** Application\\, Installation type: "Install per user")  
