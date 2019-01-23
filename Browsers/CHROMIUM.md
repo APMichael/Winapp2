@@ -2,12 +2,10 @@
 
 ### Active: ####
 
-**[Brave](https://brave.com)**  
+**[Brave Core](https://brave.com)**  
 Registry Key: HKCU\\Software\\BraveSoftware\\Brave-Browser  
 Application Path: %ProgramFiles%\\BraveSoftware\\Brave-Browser\\Application\\  
-Application Path: %LocalAppData%\\Brave\\ (**no** Application\\, **outdated**)  
 Profile Path: %LocalAppData%\\BraveSoftware\\Brave-Browser\\User Data\\Default\\  
-Profile Path: %AppData%\\brave\\ (**no** User Data\\Default\\, **outdated**)
 
 **[Cent Browser](https://www.centbrowser.com)**  
 Registry Key: HKCU\\Software\\CentBrowser  
@@ -99,6 +97,10 @@ Profile Path: %LocalAppData%\\CocCoc\\Browser\\User Data\\Default\\
 Registry Key: HKCU\\Software\\360Browser\\Browser  
 Application Path: %LocalAppData%\\360Browser\\Browser\\Application\\  
 Profile Path: %LocalAppData%\\360Browser\\Browser\\User Data\\Default\\
+
+**Brave Muon** (2018)  
+Application Path: %LocalAppData%\\Brave\\ (**no** Application\\)  
+Profile Path: %AppData%\\brave\\ (**no** User Data\\Default\\)
 
 **ChromePlus** (**CoolNovo**, 2013)  
 Registry Key: HKCU\\Software\\ChromePlus  
