@@ -14,7 +14,7 @@ Profile Path: %LocalAppData%\\CentBrowser\\User Data\\Default\\
 
 **[Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)**  
 Registry Key: HKCU\\Software\\Comodo\\Dragon  
-Application Path: %ProgramFiles%\\Comodo\\Dragon\\  
+Application Path: %ProgramFiles%\\Comodo\\Dragon\\ (**no** Application\\)  
 Profile Path: %LocalAppData%\\Comodo\\Dragon\\User Data\\Default\\
 
 **[Epic Privacy Browser](https://www.epicbrowser.com)**  
@@ -33,9 +33,9 @@ Application Path: %LocalAppData%\\Google\\Chrome SxS\\Application\\
 Profile Path: %LocalAppData%\\Google\\Chrome SxS\\User Data\\Default\\
 
 **[Iridium Browser](https://iridiumbrowser.de)**  
-Registry Key: -  
-Application Path: -  
-Profile Path: -
+Registry Key: HKCU\\Software\\Iridium  
+Application Path: %ProgramFiles%\\Iridium\\ (**no** Application\\)  
+Profile Path: %LocalAppData%\\Iridium\\User Data\\Default\\
 
 **[Opera](https://www.opera.com)**  
 Registry Key: HKCU\\Software\\Opera Software  
@@ -45,18 +45,18 @@ Profile Path: %AppData%\\Opera Software\\Opera Stable\\ (**no** User Data\\Defau
 
 **[Slimjet](https://www.slimjet.com)**  
 Registry Key: HKCU\\Software\\Slimjet  
-Application Path: %ProgramFiles%\\Slimjet\\  
+Application Path: %ProgramFiles%\\Slimjet\\ (**no** Application\\)  
 Profile Path: %LocalAppData%\\Slimjet\\User Data\\Default\\
 
 **[SRWare Iron](https://www.srware.net)**  
 Registry Key: HKCU\\Software\\Chromium (\\PreferenceMACs)  
-Application Path: %ProgramFiles%\\SRWare Iron\\  
+Application Path: %ProgramFiles%\\SRWare Iron\\ (**no** Application\\)  
 Profile Path: %LocalAppData%\\Chromium\\User Data\\Default\\
 
 **[Superbird](http://superbird-browser.com)**  
-Registry Key: HKCU\\Software\\Chromium (\\PreferenceMACs)  
-Application Path: %ProgramFiles%\\SuperBird\\  
-Profile Path: %LocalAppData%\\Chromium\\User Data\\Default\\
+Registry Key: HKCU\\Software\\Superbird  
+Application Path: %ProgramFiles%\\SuperBird\\ (**no** Application\\)  
+Profile Path: %LocalAppData%\\Superbird\\User Data\\Default\\
 
 **[Torch](https://torchbrowser.com)**  
 Registry Key: HKCU\\Software\\Torch  
