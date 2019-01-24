@@ -99,6 +99,7 @@ Application Path: %LocalAppData%\\360Browser\\Browser\\Application\\
 Profile Path: %LocalAppData%\\360Browser\\Browser\\User Data\\Default\\
 
 **Brave Muon** (2018)  
+Registry Key: -  
 Application Path: %LocalAppData%\\Brave\\ (**no** Application\\)  
 Profile Path: %AppData%\\brave\\ (**no** User Data\\Default\\)
 
