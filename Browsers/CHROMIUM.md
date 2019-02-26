@@ -7,6 +7,16 @@ Registry Key: HKCU\\Software\\BraveSoftware\\Brave-Browser
 Application Path: %ProgramFiles%\\BraveSoftware\\Brave-Browser\\Application\\  
 Profile Path: %LocalAppData%\\BraveSoftware\\Brave-Browser\\User Data\\Default\\  
 
+**[Brave Core Beta](https://brave.com/download-beta/)**  
+Registry Key: HKCU\\Software\\BraveSoftware\\Brave-Browser-Beta  
+Application Path: %ProgramFiles%\\BraveSoftware\\Brave-Browser-Beta\\Application\\  
+Profile Path: %LocalAppData%\\BraveSoftware\\Brave-Browser-Beta\\User Data\\Default\\  
+
+**[Brave Core Dev](https://brave.com/download-dev/)**  
+Registry Key: HKCU\\Software\\BraveSoftware\\Brave-Browser-Dev  
+Application Path: %ProgramFiles%\\BraveSoftware\\Brave-Browser-Dev\\Application\\  
+Profile Path: %LocalAppData%\\BraveSoftware\\Brave-Browser-Dev\\User Data\\Default\\  
+
 **[Cent Browser](https://www.centbrowser.com)**  
 Registry Key: HKCU\\Software\\CentBrowser  
 Application Path: %LocalAppData%\\CentBrowser\\Application\\  
