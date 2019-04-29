@@ -36,6 +36,12 @@ Profile Path: %AppData%\\Waterfox\\Profiles\\\*.default\\
 
 ### Active: ####
 
+**[Interlink Mail & News](http://binaryoutcast.com/projects/interlink/)**  
+Registry Key: HKLM\\SOFTWARE\\Binary Outcast\\Interlink  
+Application Path: %ProgramFiles%\\Interlink\\  
+Cache Path: %LocalAppData%\\Binary Outcast\\Interlink\\Profiles\\\*.default\\  
+Profile Path: %AppData%\\Binary Outcast\\Interlink\\Profiles\\\*.default\\
+
 **[Mozilla Thunderbird](https://www.thunderbird.net)**  
 Registry Key: HKLM\\SOFTWARE\\Mozilla\\Mozilla Thunderbird  
 Application Path: %ProgramFiles%\\Mozilla Thunderbird\\  
