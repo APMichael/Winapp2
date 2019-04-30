@@ -38,7 +38,7 @@ Application Path: %ProgramFiles%\\SeaMonkey\\
 Cache Path: %LocalAppData%\\Mozilla\\SeaMonkey\\Profiles\\\*.default\\  
 Profile Path: %AppData%\\Mozilla\\SeaMonkey\\Profiles\\\*.default\\
 
-**[Waterfox](https://www.waterfox.net/)**  
+**[Waterfox](https://www.waterfox.net)**  
 Registry Key: HKLM\\SOFTWARE\\Mozilla\\Waterfox  
 Application Path: %ProgramFiles%\\Waterfox\\  
 Cache Path: %LocalAppData%\\Waterfox\\Profiles\\\*.default\\  
