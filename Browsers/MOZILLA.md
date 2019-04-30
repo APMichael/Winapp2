@@ -8,11 +8,23 @@ Application Path: %ProgramFiles%\\Mozilla Firefox\\
 Cache Path: %LocalAppData%\\Mozilla\\Firefox\\Profiles\\\*.default\\  
 Profile Path: %AppData%\\Mozilla\\Firefox\\Profiles\\\*.default\\
 
+**[Mozilla Firefox Beta](https://www.mozilla.org/firefox/channel/desktop/)**  
+Registry Key: HKLM\\SOFTWARE\\Mozilla\\Mozilla Firefox  
+Application Path: %ProgramFiles%\\Mozilla Firefox\\  
+Cache Path: %LocalAppData%\\Mozilla\\Firefox\\Profiles\\\*.default-beta\\  
+Profile Path: %AppData%\\Mozilla\\Firefox\\Profiles\\\*.default-beta\\
+
+**[Mozilla Firefox Developer Edition](https://www.mozilla.org/firefox/channel/desktop/)**  
+Registry Key: HKLM\\SOFTWARE\\Mozilla\\Firefox Developer Edition  
+Application Path: %ProgramFiles%\\Firefox Developer Edition\\  
+Cache Path: %LocalAppData%\\Mozilla\\Firefox\\Profiles\\\*.dev-edition-default\\  
+Profile Path: %AppData%\\Mozilla\\Firefox\\Profiles\\\*.dev-edition-default\\
+
 **[Mozilla Firefox Nightly](https://www.mozilla.org/firefox/channel/desktop/)**  
 Registry Key: HKLM\\SOFTWARE\\Mozilla\\Nightly  
 Application Path: %ProgramFiles%\\Firefox Nightly\\  
-Cache Path: %LocalAppData%\\Mozilla\\Firefox\\Profiles\\\*.default\\  
-Profile Path: %AppData%\\Mozilla\\Firefox\\Profiles\\\*.default\\
+Cache Path: %LocalAppData%\\Mozilla\\Firefox\\Profiles\\\*.default-nightly\\  
+Profile Path: %AppData%\\Mozilla\\Firefox\\Profiles\\\*.default-nightly\\
 
 **[Pale Moon](https://www.palemoon.org)**  
 Registry Key: HKLM\\SOFTWARE\\Mozilla\\Pale Moon  
