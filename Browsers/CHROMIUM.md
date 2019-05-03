@@ -27,6 +27,11 @@ Registry Key: HKCU\\Software\\CentBrowser
 Application Path: %LocalAppData%\\CentBrowser\\Application\\  
 Profile Path: %LocalAppData%\\CentBrowser\\User Data\\Default\\
 
+**[Chromium](https://chromium.woolyss.com)**  
+Registry Key: HKCU\\Software\\Chromium (\\PreferenceMACs)  
+Application Path: %LocalAppData%\\Chromium\\Application\\  
+Profile Path: %LocalAppData%\\Chromium\\User Data\\Default\\
+
 **[Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)**  
 Registry Key: HKCU\\Software\\Comodo\\Dragon  
 Application Path: %ProgramFiles%\\Comodo\\Dragon\\ (**no** Application\\)  
