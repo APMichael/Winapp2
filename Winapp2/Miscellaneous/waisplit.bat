@@ -31,7 +31,7 @@ GOTO :eof
 
 IF "%wais_line:~0,1%"=="[" ((SET /A "wais_entry+=1") & (CALL :output))
 SETLOCAL EnableDelayedExpansion
-IF "%wais_line:~0,1%"==";" (ECHO !wais_line! >>"%wais_folder%\preample.txt") ELSE (ECHO !wais_line! >>"%wais_folder%\rule%wais_entry%.ini")
+IF "%wais_line:~0,1%"==";" (ECHO !wais_line! >>"%wais_folder%\preamble.txt") ELSE (ECHO !wais_line! >>"%wais_folder%\rule%wais_entry%.ini")
 ENDLOCAL
 GOTO :eof
 
