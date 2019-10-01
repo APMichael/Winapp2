@@ -38,6 +38,12 @@ Application Path: %ProgramFiles%\\SeaMonkey\\
 Cache Path: %LocalAppData%\\Mozilla\\SeaMonkey\\Profiles\\\*.default\\  
 Profile Path: %AppData%\\Mozilla\\SeaMonkey\\Profiles\\\*.default\\
 
+**[SlimBrowser](https://www.slimbrowser.net)**  
+Registry Key: HKLM\\SOFTWARE\\FlashPeak\\SlimBrowser  
+Application Path: %ProgramFiles%\\SlimBrowser\\  
+Cache Path: %LocalAppData%\\FlashPeak\\SlimBrowser\\Profiles\\\*.default\\  
+Profile Path: %AppData%\\FlashPeak\\SlimBrowser\\Profiles\\\*.default\\
+
 **[Waterfox](https://www.waterfox.net)**  
 Registry Key: HKLM\\SOFTWARE\\Mozilla\\Waterfox  
 Application Path: %ProgramFiles%\\Waterfox\\  
