@@ -3,9 +3,9 @@
 ### Active: ####
 
 **[Microsoft Edge Beta](https://www.microsoftedgeinsider.com/en-us/download/)**  
-Registry Key: -  
-Application Path: -  
-Profile Path: -
+Registry Key: HKCU\\Software\\Microsoft\\Edge Beta  
+Application Path: %ProgramFiles%\\Microsoft\\Edge Beta\\Application\\  
+Profile Path: %LocalAppData%\\Microsoft\\Edge Beta\\User Data\\Default\\
 
 **[Microsoft Edge Dev](https://www.microsoftedgeinsider.com/en-us/download/)**  
 Registry Key: HKCU\\Software\\Microsoft\\Edge Dev  
