@@ -2,6 +2,11 @@
 
 ### Active: ####
 
+**[Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2069324&Channel=Stable&language=en)**  
+Registry Key: HKCU\\Software\\Microsoft\\Edge  
+Application Path: %LocalAppData%\\Microsoft\\Edge\\Application\\  
+Profile Path: %LocalAppData%\\Microsoft\\Edge\\User Data\\Default\\
+
 **[Microsoft Edge Beta](https://www.microsoftedgeinsider.com/en-us/download/)**  
 Registry Key: HKCU\\Software\\Microsoft\\Edge Beta  
 Application Path: %ProgramFiles%\\Microsoft\\Edge Beta\\Application\\  
