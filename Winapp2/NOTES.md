@@ -48,6 +48,8 @@ If you specify different files using the separator ";", they always need to star
 
 **For example:** ExcludeKey1=PATH|%WinDir%\\|\*setup.log;\*install.log
 
+If a pattern starts with a wildcard, the ExcludeKey uses RECURSE (it then excludes the matching files in the specified folder and all subfolders).
+
 ### Wildcards: ###
 
 CCleaner supports the DOS/CMD wildcards "\*" and "?".
