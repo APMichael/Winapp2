@@ -50,6 +50,8 @@ If you specify different files using the separator ";", they always need to star
 
 If a pattern starts with a wildcard, the ExcludeKey uses RECURSE (it then excludes the matching files in the specified folder and all subfolders).
 
+**Important:** All patterns after the first separator ignore the specified path. Therefore, the matching files are excluded system-wide! Obviously, this is a bug in CCleaner. (Thanks to novaceb881 for finding this bug.)
+
 ### Wildcards: ###
 
 CCleaner supports the DOS/CMD wildcards "\*" and "?".
