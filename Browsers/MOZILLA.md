@@ -2,6 +2,12 @@
 
 ### Active: ####
 
+**[Comodo IceDragon](https://www.comodo.com/home/browsers-toolbars/browser.php)**  
+Registry Key: HKLM\\Software\\ComodoGroup\\IceDragon  
+Application Path: %ProgramFiles%\\Comodo\\IceDragon\\  
+Cache Path: %LocalAppData%\\Comodo\\IceDragon\\Profiles\\\*.default\\  
+Profile Path: %AppData%\\Comodo\\IceDragon\\Profiles\\\*.default\\
+
 **[Mozilla Firefox](https://www.mozilla.org/firefox/)**  
 Registry Key: HKLM\\SOFTWARE\\Mozilla\\Mozilla Firefox  
 Application Path: %ProgramFiles%\\Mozilla Firefox\\  
