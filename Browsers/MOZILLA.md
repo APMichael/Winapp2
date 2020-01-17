@@ -2,6 +2,12 @@
 
 ### Active: ####
 
+**[Basilisk](https://www.basilisk-browser.org/)**  
+Registry Key: HKLM\\Software\\Mozilla\\Basilisk  
+Application Path: %ProgramFiles%\\Basilisk\\  
+Cache Path: %LocalAppData%\\Moonchild Productions\\Basilisk\\Profiles\\\*.default\\  
+Profile Path: %AppData%\\Moonchild Productions\\Basilisk\\Profiles\\\*.default\\
+
 **[Comodo IceDragon](https://www.comodo.com/home/browsers-toolbars/browser.php)**  
 Registry Key: HKLM\\Software\\ComodoGroup\\IceDragon  
 Application Path: %ProgramFiles%\\Comodo\\IceDragon\\  
