@@ -130,7 +130,7 @@ IMHO most of the VirtualStore lines aren't necessary. Only very old "legacy" app
 
 ### These are not the usual log files: ###
 
-[Extensible Storage Engine](https://docs.microsoft.com/en-us/windows/win32/extensible-storage-engine/extensible-storage-engine-files#reserved-transaction-log-files)  
+[Extensible Storage Engine](https://docs.microsoft.com/en-us/windows/win32/extensible-storage-engine/extensible-storage-engine-files)  
 [LevelDB](https://github.com/google/leveldb/blob/master/doc/impl.md)
 
 ### GitHub comments: ###
