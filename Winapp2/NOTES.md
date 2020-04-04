@@ -128,6 +128,11 @@ IMHO most of the VirtualStore lines aren't necessary. Only very old "legacy" app
 [CCleaner documentation: Add entries](https://www.ccleaner.com/docs/ccleaner/advanced-usage/ccleaner-ini-files/how-to-add-your-own-program-for-ccleaner-to-clean)  
 [CCleaner documentation: ExcludeKey](https://www.ccleaner.com/docs/ccleaner/advanced-usage/ccleaner-ini-files/how-to-exclude-items-from-ccleaners-cleaning)
 
+### These are not the usual log files: ###
+
+[Extensible Storage Engine](https://docs.microsoft.com/en-us/windows/win32/extensible-storage-engine/extensible-storage-engine-files#reserved-transaction-log-files)  
+[LevelDB](https://github.com/google/leveldb/blob/master/doc/impl.md)
+
 ### GitHub comments: ###
 
 GitHub uses "Styling with Markdown". Therefore, you have to escape some special characters with a backslash "\\". The special characters are for example the asterisk "\*" and the backslash "\\" itself (escaping: "\\\*" or "\\\\").
