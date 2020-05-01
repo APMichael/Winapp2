@@ -73,8 +73,8 @@ Detected by CCleaner: yes
 Registry Key: HKCU\\Software\\Chromium (\\PreferenceMACs)  
 Registry Key: HKCU\\Software\\Superbird  
 Application Path: %ProgramFiles%\\SuperBird\\ (**no** Application\\)  
-Profile Path: %LocalAppData%\\Superbird\\User Data\\Default\\  
 Profile Path: %LocalAppData%\\Chromium\\User Data\\Default\\  
+Profile Path: %LocalAppData%\\Superbird\\User Data\\Default\\  
 Detected by CCleaner: yes (if \\Chromium)
 
 **[Torch](https://torchbrowser.com)**  
@@ -91,7 +91,7 @@ Detected by CCleaner: yes
 
 ### Active, primary non-English: ###
 
-**[7 Star](https://qixing123.com/)** 
+**[7 Star](https://qixing123.com/)**  
 Registry Key: HKCU\\Software\\7Star\\7Star  
 Application Path: %LocalAppData%\\7Star\\7Star\\Application\\  
 Profile Path: %LocalAppData%\\7Star\\7Star\\User Data\\Default\\  
