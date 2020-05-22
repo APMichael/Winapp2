@@ -7,6 +7,7 @@ SET "wais_folder=%~dp1entries.%~nx1"
 SET "wais_line="
 SET "wais_entry=0"
 SET "wais_entries=0"
+SET "wais_rule="
 
 IF NOT EXIST "%wais_file%" ((ECHO Error: File "%wais_file%" does not exist!) & (GOTO end))
 FOR /F %%a IN ('FINDSTR /B "[" "%wais_file%"') DO (SET /A "wais_entries+=1")
@@ -30,8 +31,9 @@ GOTO :eof
 :split
 
 IF "%wais_line:~0,1%"=="[" ((SET /A "wais_entry+=1") & (CALL :output))
+SET "wais_rule=0000%wais_entry%"
 SETLOCAL EnableDelayedExpansion
-IF "%wais_line:~0,1%"==";" (ECHO !wais_line! >>"%wais_folder%\preamble.txt") ELSE (ECHO !wais_line! >>"%wais_folder%\rule%wais_entry%.ini")
+IF "%wais_line:~0,1%"==";" (ECHO !wais_line! >>"%wais_folder%\preamble.txt") ELSE (ECHO !wais_line! >>"%wais_folder%\rule%wais_rule:~-5%.ini")
 ENDLOCAL
 GOTO :eof
 
